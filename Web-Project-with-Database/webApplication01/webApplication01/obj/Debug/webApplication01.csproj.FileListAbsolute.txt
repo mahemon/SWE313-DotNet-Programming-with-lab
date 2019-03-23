@@ -1,0 +1,66 @@
+c:\users\anwar\documents\visual studio 2015\Projects\webApplication01\webApplication01\bin\ApplicationInsights.config
+c:\users\anwar\documents\visual studio 2015\Projects\webApplication01\webApplication01\bin\roslyn\csc.exe
+c:\users\anwar\documents\visual studio 2015\Projects\webApplication01\webApplication01\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\anwar\documents\visual studio 2015\Projects\webApplication01\webApplication01\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\anwar\documents\visual studio 2015\Projects\webApplication01\webApplication01\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\anwar\documents\visual studio 2015\Projects\webApplication01\webApplication01\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\anwar\documents\visual studio 2015\Projects\webApplication01\webApplication01\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\anwar\documents\visual studio 2015\Projects\webApplication01\webApplication01\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\anwar\documents\visual studio 2015\Projects\webApplication01\webApplication01\bin\roslyn\System.Collections.Immutable.dll
+c:\users\anwar\documents\visual studio 2015\Projects\webApplication01\webApplication01\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\anwar\documents\visual studio 2015\Projects\webApplication01\webApplication01\bin\roslyn\vbc.exe
+c:\users\anwar\documents\visual studio 2015\Projects\webApplication01\webApplication01\bin\roslyn\VBCSCompiler.exe
+c:\users\anwar\documents\visual studio 2015\Projects\webApplication01\webApplication01\bin\roslyn\VBCSCompiler.exe.config
+c:\users\anwar\documents\visual studio 2015\Projects\webApplication01\webApplication01\bin\webApplication01.dll.config
+c:\users\anwar\documents\visual studio 2015\Projects\webApplication01\webApplication01\bin\webApplication01.dll
+c:\users\anwar\documents\visual studio 2015\Projects\webApplication01\webApplication01\bin\webApplication01.pdb
+c:\users\anwar\documents\visual studio 2015\Projects\webApplication01\webApplication01\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\anwar\documents\visual studio 2015\Projects\webApplication01\webApplication01\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\anwar\documents\visual studio 2015\Projects\webApplication01\webApplication01\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\anwar\documents\visual studio 2015\Projects\webApplication01\webApplication01\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\anwar\documents\visual studio 2015\Projects\webApplication01\webApplication01\bin\Microsoft.AI.Web.dll
+c:\users\anwar\documents\visual studio 2015\Projects\webApplication01\webApplication01\bin\Microsoft.AI.WindowsServer.dll
+c:\users\anwar\documents\visual studio 2015\Projects\webApplication01\webApplication01\bin\Microsoft.ApplicationInsights.dll
+c:\users\anwar\documents\visual studio 2015\Projects\webApplication01\webApplication01\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\anwar\documents\visual studio 2015\Projects\webApplication01\webApplication01\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\anwar\documents\visual studio 2015\Projects\webApplication01\webApplication01\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\anwar\documents\visual studio 2015\Projects\webApplication01\webApplication01\bin\Microsoft.AI.Web.xml
+c:\users\anwar\documents\visual studio 2015\Projects\webApplication01\webApplication01\bin\Microsoft.AI.WindowsServer.xml
+c:\users\anwar\documents\visual studio 2015\Projects\webApplication01\webApplication01\bin\Microsoft.ApplicationInsights.xml
+c:\users\anwar\documents\visual studio 2015\Projects\webApplication01\webApplication01\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\anwar\documents\visual studio 2015\Projects\webApplication01\webApplication01\obj\Debug\webApplication01.dll
+c:\users\anwar\documents\visual studio 2015\Projects\webApplication01\webApplication01\obj\Debug\webApplication01.pdb
+C:\Users\Saif\Downloads\webApplication01\webApplication01\webApplication01\bin\ApplicationInsights.config
+C:\Users\Saif\Downloads\webApplication01\webApplication01\webApplication01\bin\roslyn\csc.exe
+C:\Users\Saif\Downloads\webApplication01\webApplication01\webApplication01\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Saif\Downloads\webApplication01\webApplication01\webApplication01\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Saif\Downloads\webApplication01\webApplication01\webApplication01\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Saif\Downloads\webApplication01\webApplication01\webApplication01\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Saif\Downloads\webApplication01\webApplication01\webApplication01\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Saif\Downloads\webApplication01\webApplication01\webApplication01\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Saif\Downloads\webApplication01\webApplication01\webApplication01\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Saif\Downloads\webApplication01\webApplication01\webApplication01\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Saif\Downloads\webApplication01\webApplication01\webApplication01\bin\roslyn\vbc.exe
+C:\Users\Saif\Downloads\webApplication01\webApplication01\webApplication01\bin\roslyn\VBCSCompiler.exe
+C:\Users\Saif\Downloads\webApplication01\webApplication01\webApplication01\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Saif\Downloads\webApplication01\webApplication01\webApplication01\bin\webApplication01.dll.config
+C:\Users\Saif\Downloads\webApplication01\webApplication01\webApplication01\bin\webApplication01.dll
+C:\Users\Saif\Downloads\webApplication01\webApplication01\webApplication01\bin\webApplication01.pdb
+C:\Users\Saif\Downloads\webApplication01\webApplication01\webApplication01\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Saif\Downloads\webApplication01\webApplication01\webApplication01\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Saif\Downloads\webApplication01\webApplication01\webApplication01\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Saif\Downloads\webApplication01\webApplication01\webApplication01\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Saif\Downloads\webApplication01\webApplication01\webApplication01\bin\Microsoft.AI.Web.dll
+C:\Users\Saif\Downloads\webApplication01\webApplication01\webApplication01\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Saif\Downloads\webApplication01\webApplication01\webApplication01\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Saif\Downloads\webApplication01\webApplication01\webApplication01\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Saif\Downloads\webApplication01\webApplication01\webApplication01\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Saif\Downloads\webApplication01\webApplication01\webApplication01\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Saif\Downloads\webApplication01\webApplication01\webApplication01\bin\Microsoft.AI.Web.xml
+C:\Users\Saif\Downloads\webApplication01\webApplication01\webApplication01\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Saif\Downloads\webApplication01\webApplication01\webApplication01\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Saif\Downloads\webApplication01\webApplication01\webApplication01\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Saif\Downloads\webApplication01\webApplication01\webApplication01\obj\Debug\webApplication01.csproj.CoreCompileInputs.cache
+C:\Users\Saif\Downloads\webApplication01\webApplication01\webApplication01\obj\Debug\webApplication01.csproj.CopyComplete
+C:\Users\Saif\Downloads\webApplication01\webApplication01\webApplication01\obj\Debug\webApplication01.dll
+C:\Users\Saif\Downloads\webApplication01\webApplication01\webApplication01\obj\Debug\webApplication01.pdb
